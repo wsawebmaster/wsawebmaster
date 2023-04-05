@@ -1,21 +1,21 @@
-### Olá! Eu sou o Wagner Andrade👋
+### Hello World 👋
+
+#### I'm Wagner Andrade, graduated in Management Process Technology and post graduated in FullStack Development, I am passionate about technology where I had my first contact in 1996 and since then I have been taking courses acquiring new knowledge and updates to be more prepared for current demands and technologies.
 
  <div>
   <a href="https://github.com/wsawebmaster">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wsawebmaster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsawebmaster&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wagner-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wagner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
+##  💻 Skills Back-end
+#### PHP | Python | MySQL
+
+##  💻 Skills Front-end 
+#### HTML | CSS | JavaScript | Typescript 
   
-  ##
+#### In my free time I like to practice coding and study to update my knowledge.
+I'm currently studying React | NodeJS | C# 👨‍💻
  
 <div> 
   <a href="https://www.youtube.com/channel/UCyfaJGkGu7NEvfXZ3J4FqGw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
