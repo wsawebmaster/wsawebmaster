@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=header"/>
 ### Olá Mundo! 👋
 
 #### Meu nome é Wagner Andrade, um entusiasta apaixonado por tecnologia, sempre em busca de atualização e aquisição de novos conhecimentos! Desde 1995, quando tive meu primeiro contato com a área, através do curso de Informática e Hardware, fui cativado pelo mundo dos computadores. Estudo para conquistar maneiras mais eficazes de solucionar problemas e contribuir para um mundo tecnológico melhor. O desenvolvimento para mim era hobbie, hoje faz parte do meu dia a dia. Lifelong Learning 🚀🚀🚀
@@ -29,3 +30,10 @@
 
 <br />
 <center><img src="https://profile-counter.glitch.me/wsawebmaster/count.svg" /></center>
+
+## 🎓 **Formação:**
+
+✓ Pós-Graduação em Desenvolvimento Full Stack – Universidade Anhanguera – Março de 2022<br />
+✓ Graduação em Tecnologia em Processos Gerenciais – Universidade Pitágoras Unopar – Agosto de 2021<br /><br />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=footer"/>
