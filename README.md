@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=header"/>
-<center>
+<div align="center">
 
 # Hello, I'm Wagner! 👋
 
@@ -78,5 +78,5 @@
 
 ### Post-graduate in Full Stack Development
 
-</center>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=footer"/>
