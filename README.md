@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=header"/>
+<div style="text-align:center;">
 
 # Hello, I'm Wagner! 👋
 
@@ -9,7 +10,7 @@
     <img height="190px" src="https://readme-stats-hg-yaa7.vercel.app/api/top-langs/?username=wsawebmaster&hide=Jupyter%20Notebook&langs_count=8&layout=compact&hide_border=true&theme=vision-friendly-dark&border_radius=15" />  
 </div>
 
-## Passionate about technology, always looking to update and acquire new knowledge!
+### Passionate about technology, always looking to update and acquire new knowledge!
 
 ## 💻 Skills/Habilidades
 
@@ -41,7 +42,7 @@
 
 ## 👨‍💻 Studying/Estudando
 
-<div>
+<div style="margin-top:50px;margin-bottom:50px">
     <img alt="Python" height="70"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="Laravel" height="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
     <img alt="NodeJS" height="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
@@ -56,12 +57,15 @@
 
 ---
 ---
-### Connect with me
+
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wsawebmaster/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wsawebmaster/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=mail.ru&logoColor=EA4335)](mailto:wsawebmaster@yahoo.com.br)
 [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](mailto:wsawebmaster@yahoo.com.br)
 
+---
+---
 
 ## My Contributions/Minhas Contribuições
 
@@ -72,6 +76,7 @@
 
 ## 🎓 **Formation:**
 
-## Post-graduate in Full Stack Development
+### Post-graduate in Full Stack Development
 
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=183048&height=120&section=footer"/>
