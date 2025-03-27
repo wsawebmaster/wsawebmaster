@@ -62,7 +62,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wsawebmaster/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/wsawebmaster/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=mail.ru&logoColor=EA4335)](mailto:wsawebmaster@yahoo.com.br)
-[![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](mailto:wsawebmaster@yahoo.com.br)
+[![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/wsawebmaster)
 
 ---
 ---
