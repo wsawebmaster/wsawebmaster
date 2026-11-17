@@ -61,8 +61,6 @@
 ---
 ---
 
-<img src="https://profile-counter.glitch.me/wsawebmaster/count.svg" />
-
 ## 🎓 **Formation:**
 
 ### Post-graduate in Full Stack Development
